@@ -5,4 +5,14 @@ The project examines published studies across subfields such as digital musicolo
 
 This repository includes:
 1. A structured CSV dataset of coded articles 
-2. 
+2. A data dictionary
+
+
+
+
+
+The class roster for IS262A:
+1.
+2.
+3.
+
