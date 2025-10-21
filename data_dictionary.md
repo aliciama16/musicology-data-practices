@@ -1,20 +1,8 @@
-# Data Dictionary
-
-A data dictionary is important because ____. 
-
-Find some examples here:
-* Test Example
-
-_Last Updated: 2025-10-19_
-
 ------------
 Data Dictionary
 ------------
 
-This data dictionary is for my Musicology dataset [link here].
-
-Here is how to learn more about formatting tables in Github: https://stackoverflow.com/questions/39378020/how-to-display-table-in-readme-md-file-in-github
-github resources: https://www.markdownguide.org/basic-syntax/
+This data dictionary is for my [Musicology dataset](https://github.com/aliciama16/musicology-data-practices/blob/main/Musicology_Dataset_20251019_v01.csv).
 
 | Column | Data Type | Description | Allowed / Example Values |
 |--------|-----------|:------------|--------------------------|
